@@ -1,0 +1,63 @@
+*{
+box-sizing: border-box;
+margin: 0px;
+}
+
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.contenitore {
+  background-color: rgba(10, 10, 10, 0.4);
+  width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 15px;
+  height: 650px;
+}
+
+img {
+  height: 100px;
+  width: auto;
+  margin-top: 45px;
+}
+
+header {
+  color: lime;
+  text-align: center;
+}
+
+nav {
+  background-color: lime;
+  text-align: center;
+  padding: 9px;
+  width: 800px;
+  margin: auto;
+}
+
+main {
+  color: white;
+  margin-left: 100px;
+}
+
+.verde {
+  width: 475px;
+  background-color: #06d006;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.arancione {
+  width: 275px;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.rosso {
+  width: 125px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+}
